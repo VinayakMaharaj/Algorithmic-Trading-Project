@@ -7,6 +7,9 @@ This project implements a full **quantitative trading pipeline** using machine l
 > 🧠 Applies KMeans clustering + factor regression to build smart portfolios  
 > 🧮 Optimizes asset allocation using Efficient Frontier  
 
+![Cumulative Returns](./images/cumulative_returns.png)
+*Sample visualization: Strategy vs. S&P 500 cumulative return*
+
 ---
 
 ## 🚀 Project Goals
@@ -74,6 +77,16 @@ This project implements a full **quantitative trading pipeline** using machine l
 
 ---
 
+## 🧪 How to Run
+
+> Run this project directly in **Google Colab** or any local Jupyter environment.
+
+1. Clone the repository  
+2. Install dependencies: `pip install -r requirements.txt`  
+3. Open the `.ipynb` notebook and run all cells
+
+---
+
 ## 🧑‍💻 What You’ll Learn
 
 - How to preprocess financial time series for ML
@@ -101,6 +114,13 @@ Inspired by research from:
 
 ---
 
+## 🌐 Demo
+
+If you'd like to see a live version or run it in the browser, check out the [Colab Notebook](https://colab.research.google.com/) or use the Gradio app (coming soon).
+
+---
+
 ## 📜 License
 
 This project is open-source under the MIT license. Use it, build on it, and make it your own!
+
