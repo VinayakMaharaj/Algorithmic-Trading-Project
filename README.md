@@ -7,7 +7,8 @@ This project implements a full **quantitative trading pipeline** using machine l
 > 🧠 Applies KMeans clustering + factor regression to build smart portfolios  
 > 🧮 Optimizes asset allocation using Efficient Frontier  
 
-![Cumulative Returns](./images/cumulative_returns.png)
+![cumulative returns](https://github.com/user-attachments/assets/9f87ddc8-d75e-4dea-aea9-24cbb9456955)
+
 *Sample visualization: Strategy vs. S&P 500 cumulative return*
 
 ---
